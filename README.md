@@ -263,17 +263,9 @@ An NLP project focused on sentiment classification.
 
 ## 📊 GitHub Life
 
-<!-- GitHub Stats and Languages Side-by-Side -->
 <p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats"/>
-  <img src="https://vercel.app" width="40%" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=tanishataranoon&theme=midnight-purple&hide_border=true" width="55%"/>
 </p>
-
-<!-- GitHub Contribution Streak Card -->
-<p align="center">
-  <img src="https://demolab.com" width="55%" alt="GitHub Streak"/>
-</p>
-
 
 ---
 
