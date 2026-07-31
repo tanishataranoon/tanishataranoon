@@ -251,13 +251,13 @@ An NLP project focused on sentiment classification.
 
 🏅 **Vice Chancellor's Honor Award** · 4x
 
-&nbsp; 
+&nbsp; <br/>
 🏃‍♂️ **Marathon** · Finisher
-&nbsp; 
+&nbsp; <br/>
 💡 **Inter University Ideathon** · Participant
-&nbsp; 
+&nbsp; <br/>
 🧮 **Math Olympiad** · Participant
-&nbsp; 
+&nbsp; <br/>
 🤖 **Inter University Robo Expo 3.0**· Participant
 ---
 
