@@ -252,29 +252,28 @@ An NLP project focused on sentiment classification.
 🏅 **Vice Chancellor's Honor Award** · 4x
 
 &nbsp; 
-<br/><br/>
+<br/>
 
 🏃‍♂️ **Marathon** · Finisher
 
 &nbsp; 
-<br/><br/>
+<br/>
 
 💡 **Inter University Ideathon** · Participant
 
 &nbsp; 
-<br/><br/>
+<br/>
 
 🧮 **Math Olympiad** · Participant
 
 &nbsp; 
-<br/><br/>
+<br/>
 
 🤖 **Inter University Robo Expo 3.0**· Participant
 
 </p>
 
 ---
-
 
 ## 📊 GitHub Life
 
