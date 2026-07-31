@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Tanisha Taranoon Hridy banner"/>
+  <img src=".banner.svg" width="100%" alt="Tanisha Taranoon Hridy banner"/>
 </p>
 
 <!--
