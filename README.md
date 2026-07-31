@@ -1,61 +1,82 @@
-<h1 align="center">Hi 👋, I'm Tanisha Taranoon Hridy</h1>
+
+
+<!-- ====================================================== -->
+<!--                    HERO BANNER                         -->
+<!--         BANNER WILL BE ADDED HERE LATER               -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <b>AI/ML Researcher · Computer Science Undergraduate · Builder of Intelligent Systems</b>
+  <br>
+  <br>
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Tanisha%20Taranoon%20Hridy&fontSize=42&fontColor=F2B6D2&animation=fadeIn&fontAlignY=50" width="100%">
+  
+  <br>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
-  </a>
-  <a href="YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github">
-  </a>
-  <!-- <a href="YOUR_GOOGLE_SCHOLAR">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar">
-  </a> -->
+  <b>AI/ML Researcher in Progress · CSE Undergraduate · Curious Mind</b>
+</p>
+
+<p align="center">
+  <i>Between logic and imagination.</i>
+</p>
+
+<p align="center">
+  <a href="#-know-me">🧠 About</a>
+  &nbsp;•&nbsp;
+  <a href="#-research-interests">🔬 Research</a>
+  &nbsp;•&nbsp;
+  <a href="#-currently-working-on">🌱 Current Work</a>
+  &nbsp;•&nbsp;
+  <a href="#-things-ive-built">🚀 Projects</a>
+  &nbsp;•&nbsp;
+  <a href="#-beyond-the-code">🌙 Beyond Code</a>
 </p>
 
 ---
 
-### 🧠 Research Focus
+# 🧠 Know Me
 
-I'm a Computer Science undergraduate interested in building reliable,
-explainable, and impactful intelligent systems.
+Hi! I'm **Tanisha Taranoon Hridy**, a Computer Science undergraduate
+interested in **Artificial Intelligence, Machine Learning, and
+trustworthy intelligent systems**.
 
-My interests lie at the intersection of:
+I enjoy learning by building, experimenting, and exploring how intelligent
+systems work — not just whether they work.
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning`  
-`Trustworthy AI` · `Explainable AI` · `Computer Vision` · `NLP`
+My interests currently revolve around:
 
----
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 💬 Natural Language Processing
+- 👁️ Computer Vision
+- 🔍 Explainable AI
+- 🛡️ Trustworthy AI
 
-### 🔬 Currently Exploring
-
-> **AI-based Multi-Hazard Forecasting & Early Warning Systems**
-
-Working on an ongoing research project exploring hybrid fusion models
-and Explainable AI for intelligent hazard forecasting.
-
----
-
-### 🚀 Selected Work
-
-| Project | What I Explored |
-|---|---|
-| 🧪 Toxic Comment Detection | NLP, preprocessing, ML, DL & transformer comparison |
-| 🌳 Rare Tree Locator | Biodiversity-focused web application |
-| 🤖 Gesture-Controlled Robot | Embedded systems, IoT & computer vision |
-| 📦 Inventory Management | Relational database design & SQL |
-| 💬 Sentiment Analysis | NLP preprocessing & machine learning |
+I'm particularly interested in developing intelligent systems that are
+**reliable, explainable, and meaningful in real-world applications**.
 
 ---
 
-### 🧪 Research & Experiments
+# 🔬 Research Interests
 
-```text
-NLP                    ████████████████
-Machine Learning       ███████████████
-Deep Learning          █████████████
-Computer Vision        ███████████
-Explainable AI         ██████████
+                 Artificial Intelligence
+                          │
+                          ▼
+                  Machine Learning
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+             ▼            ▼            ▼
+            NLP      Computer Vision    XAI
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                          ▼
+                   Deep Learning
+                          │
+                          ▼
+                  Trustworthy AI
