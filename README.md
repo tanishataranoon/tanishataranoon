@@ -249,60 +249,50 @@ An NLP project focused on sentiment classification.
 
 <p align="center">
 
-🏅 **Vice Chancellor's Honor Award** · Spring 2024
+🏅 **Vice Chancellor's Honor Award** · 4x
 
-&nbsp; · &nbsp;
-
-🏅 **Vice Chancellor's Honor Award** · Spring 2025
-
-&nbsp; · &nbsp;
-
-🏅 **Vice Chancellor's Honor Award** · Fall 2025
-
+&nbsp; 
 <br/><br/>
 
-🤖 **Inter University Robo Expo 3.0**
+🏃‍♂️ **Marathon** · Finisher
+
+&nbsp; 
+<br/><br/>
+
+💡 **Inter University Ideathon** · Participant
+
+&nbsp; 
+<br/><br/>
+
+🧮 **Math Olympiad** · Participant
+
+&nbsp; 
+<br/><br/>
+
+🤖 **Inter University Robo Expo 3.0**· Participant
 
 </p>
 
 ---
+
 
 ## 📊 GitHub Life
 
+<!-- GitHub Stats and Languages Side-by-Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishataranoon&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishataranoon&layout=compact&theme=midnight-purple&hide_border=true" width="40%"/>
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats"/>
+  <img src="https://vercel.app" width="40%" alt="Top Languages"/>
 </p>
 
+<!-- GitHub Contribution Streak Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanishataranoon&theme=midnight-purple&hide_border=true" width="55%"/>
+  <img src="https://demolab.com" width="55%" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
-## 🌙 Say Hello
-
-<p align="center">
-
-<a href="https://github.com/tanishataranoon">
-  <img src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<!-- Replace # with your LinkedIn URL -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Later-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<!-- Replace # with your portfolio URL -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Add%20Later-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+## 🌙 Thank you
 
 <p align="center">
   <br/>
