@@ -1,0 +1,92 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1f"/>
+      <stop offset="55%" stop-color="#0e1330"/>
+      <stop offset="100%" stop-color="#141a3d"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5f0e6" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#d8cdb8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#d8cdb8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- stars -->
+  <g fill="#e9e6f7">
+    <circle cx="60" cy="45" r="1.6" opacity="0.8"/>
+    <circle cx="130" cy="90" r="1.1" opacity="0.6"/>
+    <circle cx="220" cy="35" r="1.4" opacity="0.7"/>
+    <circle cx="310" cy="70" r="1" opacity="0.5"/>
+    <circle cx="95" cy="150" r="1.2" opacity="0.6"/>
+    <circle cx="980" cy="50" r="1.5" opacity="0.8"/>
+    <circle cx="1050" cy="100" r="1.1" opacity="0.6"/>
+    <circle cx="900" cy="180" r="1.3" opacity="0.6"/>
+    <circle cx="1120" cy="60" r="1.4" opacity="0.7"/>
+    <circle cx="1150" cy="150" r="1" opacity="0.5"/>
+    <circle cx="700" cy="30" r="1.2" opacity="0.5"/>
+    <circle cx="500" cy="260" r="1" opacity="0.4"/>
+    <circle cx="40" cy="240" r="1.1" opacity="0.5"/>
+  </g>
+
+  <!-- neural network pattern, left side -->
+  <g stroke="#5b6bb0" stroke-width="1" opacity="0.45">
+    <line x1="70" y1="200" x2="150" y2="170"/>
+    <line x1="70" y1="200" x2="150" y2="220"/>
+    <line x1="70" y1="240" x2="150" y2="220"/>
+    <line x1="70" y1="240" x2="150" y2="170"/>
+    <line x1="150" y1="170" x2="220" y2="195"/>
+    <line x1="150" y1="220" x2="220" y2="195"/>
+  </g>
+  <g fill="#8891d6">
+    <circle cx="70" cy="200" r="3"/>
+    <circle cx="70" cy="240" r="3"/>
+    <circle cx="150" cy="170" r="3"/>
+    <circle cx="150" cy="220" r="3"/>
+    <circle cx="220" cy="195" r="3.5"/>
+  </g>
+
+  <!-- neural network pattern, right side -->
+  <g stroke="#5b6bb0" stroke-width="1" opacity="0.45">
+    <line x1="980" y1="195" x2="1050" y2="170"/>
+    <line x1="980" y1="195" x2="1050" y2="220"/>
+    <line x1="1050" y1="170" x2="1120" y2="200"/>
+    <line x1="1050" y1="220" x2="1120" y2="200"/>
+    <line x1="1050" y1="170" x2="1120" y2="240"/>
+    <line x1="1050" y1="220" x2="1120" y2="240"/>
+  </g>
+  <g fill="#8891d6">
+    <circle cx="980" cy="195" r="3.5"/>
+    <circle cx="1050" cy="170" r="3"/>
+    <circle cx="1050" cy="220" r="3"/>
+    <circle cx="1120" cy="200" r="3"/>
+    <circle cx="1120" cy="240" r="3"/>
+  </g>
+
+  <!-- moon -->
+  <circle cx="600" cy="70" r="60" fill="url(#moonGlow)"/>
+  <circle cx="600" cy="70" r="22" fill="#f2ecdd"/>
+  <circle cx="608" cy="62" r="20" fill="#0e1330"/>
+
+  <!-- sparkles -->
+  <g fill="#cfd3ef" filter="url(#soft)">
+    <text x="360" y="60" font-size="20" opacity="0.7">✦</text>
+    <text x="820" y="55" font-size="16" opacity="0.6">✦</text>
+    <text x="470" y="230" font-size="14" opacity="0.5">⋆</text>
+    <text x="740" y="235" font-size="18" opacity="0.6">✦</text>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#f4f1fa" letter-spacing="4">TANISHA TARANOON HRIDY</text>
+
+  <!-- subtitle -->
+  <text x="600" y="185" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" fill="#a8b0e0" letter-spacing="3">AI / ML &#8226; RESEARCH &#8226; CREATE</text>
+
+  <!-- tagline -->
+  <text x="600" y="225" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#8891d6">"Between logic &amp; imagination"</text>
+</svg>
