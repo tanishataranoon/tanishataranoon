@@ -53,10 +53,8 @@
 Hi! I'm **Tanisha Taranoon Hridy**, a CSE undergraduate who enjoys
 building things, experimenting with ideas, and learning how intelligent
 systems work.
-
 I'm currently exploring **AI/ML, deep learning, computer vision, NLP,
 and explainable AI**.
-
 Outside the technical world, I'm an introvert who enjoys having my own
 little universe — anime, manga, manhwa, music, drawing, cooking, and
 quiet time.
@@ -75,15 +73,13 @@ quiet time.
 🎨 **Drawing** &nbsp;·&nbsp;
 🍳 **Cooking** &nbsp;·&nbsp;
 🌙 **Quiet Time**
-
-<br/><br/>
-
+<br/>
 🎧 **BTS** &nbsp;·&nbsp;
 **Taylor Swift** &nbsp;·&nbsp;
 **The Weeknd** &nbsp;·&nbsp;
 **Chase Atlantic**
 </p>
-# 💻 Things I'm Building
+## 💻 Things I'm Building
 
 <table>
 <tr>
