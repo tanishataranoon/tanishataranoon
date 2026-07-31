@@ -2,251 +2,448 @@
   <img src="banner.svg" width="100%" alt="Tanisha Taranoon Hridy banner"/>
 </p>
 
-<!--
-  This is a starter SVG banner (dark/dreamy/neural aesthetic) so the profile isn't
-  empty at the top. Swap ./assets/banner.svg for ./assets/banner.png any time you
-  have a custom-designed version — just keep the same <img> tag and folder path.
--->
-
-<h1 align="center">Tanisha Taranoon Hridy</h1>
 <p align="center">
-  <b>AI/ML Researcher in Progress</b> · CSE Undergraduate
   <br/>
-  <i>Exploring intelligent, explainable, and reliable systems.</i>
+  <br/>
+</p>
+
+
+<!-- ========================================================= -->
+<!--                       INTRO                               -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+  Hey, I'm Tanisha 👋
+</h1>
+
+<p align="center">
+  <b>AI/ML • CSE • Research • Create</b>
 </p>
 
 <p align="center">
-  <sub>✦ Between logic and imagination ✦</sub>
+  <i>Somewhere between logic and imagination.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanishataranoon"><img src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=flat-square&logo=github"/></a>
-  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20Later-0A66C2?style=flat-square&logo=linkedin"/></a> -->
-  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20Later-000000?style=flat-square"/></a> -->
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+of+the+internet;Exploring+AI+%26+Machine+Learning;Building%2C+breaking%2C+learning%2C+repeating;Between+logic+and+imagination"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanishataranoon">
+    <img
+      src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <!-- Add LinkedIn later -->
+  <!-- Add Portfolio later -->
 </p>
 
 <br/>
 
-## 🧠 Know Me
 
-I'm a Computer Science undergraduate exploring the intersection of AI, machine learning, and intelligent systems. I enjoy learning by building — experimenting, breaking things, and trying to understand not only *whether* a model works, but *why* it works.
+<!-- ========================================================= -->
+<!--                    🧠 A LITTLE ABOUT ME                   -->
+<!-- ========================================================= -->
 
-I'm especially drawn to systems that are not just accurate, but **explainable and trustworthy** — the kind of AI you can actually question.
+## 🧠 A Little About Me
 
-- 🎓 CSE Undergraduate
-- 🔬 Interested in AI/ML, Deep Learning, XAI, NLP, and Computer Vision
-- 🌱 Currently building my research experience, one project at a time
-- 🧩 I like understanding systems from the inside out
+Hey! I'm **Tanisha Taranoon Hridy**, a CSE undergraduate who enjoys
+building things, experimenting with ideas, and occasionally wondering
+why the code worked in the first place.
 
-Outside research and code, I'm an introvert who unwinds with anime, manga, and manhwa, has a playlist running in the background almost always (BTS, Taylor Swift, The Weeknd, Chase Atlantic), and enjoys drawing and cooking when I need to step away from a screen.
+I'm currently exploring the world of **Artificial Intelligence,
+Machine Learning, and research**, with a growing interest in
+understanding how intelligent systems can become more reliable,
+explainable, and meaningful.
+
+But that's only one part of me.
+
+I'm also an **introvert** who enjoys having my own little world.
+
+I love getting lost in **anime, manga, and manhwa**, listening to music
+for hours, drawing whenever inspiration decides to show up, and
+experimenting in the kitchen.
+
+My playlists are probably a slightly chaotic mix of:
+
+**BTS · Taylor Swift · The Weeknd · Chase Atlantic**
+
+I like solving complex problems with technology, but I also like quiet
+things, creative things, stories, music, and the small moments that make
+life interesting.
+
+<p align="center">
+  <i>
+    A curious mind, a quiet soul, and a little bit of creativity
+    between lines of code.
+  </i>
+</p>
 
 <br/>
 
-## 🔬 Research Interests
 
-```
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │
-        ├── Deep Learning
-        │
-        ├── Natural Language Processing
-        │
-        ├── Computer Vision
-        │
-        └── Explainable / Trustworthy AI
-```
+<!-- ========================================================= -->
+<!--                  🎧 CURRENTLY INTO                        -->
+<!-- ========================================================= -->
 
-I'm still early in my research journey, so I try to describe my interests honestly:
+## 🎧 Currently Into
 
-> Exploring · Interested in · Working with · Researching · Experimenting with
+<table align="center">
+<tr>
 
-Not "expert in everything" — just steadily building depth in these areas.
+<td align="center" width="25%">
+
+### 🎧
+**Listening**
+
+BTS  
+Taylor Swift  
+The Weeknd  
+Chase Atlantic
+
+</td>
+
+<td align="center" width="25%">
+
+### 📖
+**Reading**
+
+Manga  
+Manhwa  
+Stories that keep me awake  
+longer than they should
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎬
+**Watching**
+
+Anime  
+Interesting characters  
+Beautiful worlds  
+Questionable sleep schedules
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+**Creating**
+
+Drawing  
+Cooking  
+Building things  
+Random ideas
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-## 🌱 Current Work
+<p align="center">
+  🌙 <i>Sometimes I code. Sometimes I disappear into fictional worlds.</i> 🌙
+</p>
 
-Two ongoing projects currently take up most of my research time.
+<br/>
+
+
+<!-- ========================================================= -->
+<!--                  💻 THINGS I'M BUILDING                   -->
+<!-- ========================================================= -->
+
+# 💻 Things I'm Building
+
+A little collection of things I'm currently working on,
+experimenting with, or have built along the way.
+
+<br/>
+
+<!-- ===================== THESIS ============================ -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🌾 AI-Based Multi-Hazard Forecasting
-**Undergraduate Thesis · 🟡 Ongoing**
+<h3>🌾 AI-Based Multi-Hazard Forecasting</h3>
 
-AI-based multi-hazard forecasting and early warning using hybrid fusion models and Explainable AI.
+<b>Undergraduate Thesis · 🌱 Growing</b>
 
-`Deep Learning` · `Forecasting` · `XAI`
+<br/><br/>
 
-<!-- [Repository] · [Methodology] · [Poster] -->
+An ongoing AI-based research project exploring
+**multi-hazard forecasting and early warning** using
+hybrid fusion approaches and Explainable AI.
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🎭 Multi-Face Deepfake Detection
-**Research Project · 🟡 Ongoing**
+<code>AI</code>
+<code>Deep Learning</code>
+<code>Forecasting</code>
+<code>XAI</code>
 
-Exploring deepfake detection in multi-person videos through face-level analysis, tracking, evidence extraction, and reliable prediction.
+<br/><br/>
 
-`Computer Vision` · `Deep Learning`
-
-<!-- [Repository] · [Pipeline] · [Results] -->
+<i>
+Currently learning, experimenting, and figuring things out one
+research problem at a time.
+</i>
 
 </td>
 </tr>
 </table>
 
-<sub>Both sections will be updated with repositories, diagrams, and results as each project matures.</sub>
+<br/>
+
+<!-- ===================== DEEPFAKE ========================== -->
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>🎭 Multi-Face Deepfake Detection</h3>
+
+<b>Research Project · 🧪 Experimenting</b>
+
+<br/><br/>
+
+An ongoing exploration into deepfake detection in
+**multi-person videos**, focusing on face-level analysis,
+tracking, evidence extraction, and reliable prediction.
+
+<br/><br/>
+
+<code>Computer Vision</code>
+<code>Deep Learning</code>
+<code>Video Analysis</code>
+
+<br/><br/>
+
+<i>
+Still evolving — because research rarely looks exactly like
+the first architecture you draw on paper.
+</i>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🚀 Featured Projects
-
-**Current Research**
+<!-- ===================== TOXIC COMMENT ===================== -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌾 Multi-Hazard Forecasting**
-AI · XAI · Forecasting
-Hybrid fusion models for early warning systems.
-<br/><sub>🟡 Ongoing</sub>
+<h3>🧪 Toxic Comment Detection</h3>
+
+<b>✨ Built</b>
+
+<br/><br/>
+
+An NLP project exploring traditional machine learning,
+deep learning, and transformer-based approaches for
+toxic comment classification.
+
+<br/><br/>
+
+<code>NLP</code>
+<code>ML</code>
+<code>Deep Learning</code>
+<code>Transformers</code>
 
 </td>
+
 <td width="50%" valign="top">
 
-**🎭 Multi-Face Deepfake Detection**
-Computer Vision · AI
-Face-level analysis and tracking for reliable detection.
-<br/><sub>🟡 Ongoing</sub>
+<h3>🌳 Rare Tree Locator</h3>
+
+<b>✨ Built</b>
+
+<br/><br/>
+
+A web application focused on identifying and tracking
+rare and unique trees.
+
+<br/><br/>
+
+<code>Django</code>
+<code>Python</code>
+<code>JavaScript</code>
 
 </td>
 </tr>
 </table>
 
-**Completed Projects**
+<br/>
+
+<!-- ===================== ROBOT ============================= -->
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🧪 Toxic Comment Detection**
-`NLP`
-<sub>🔵 Completed</sub>
+<h3>🤖 Gesture-Controlled Robot</h3>
 
-</td>
-<td width="33%" valign="top">
+<b>✨ Built</b>
 
-**🌳 Rare Tree Locator**
-`Computer Vision`
-<sub>🔵 Completed</sub>
+<br/><br/>
 
-</td>
-<td width="33%" valign="top">
+A gesture-controlled robotic vehicle combining
+embedded systems, wireless communication, and
+vision-based feedback.
 
-**🤖 Gesture-Controlled Robot**
-`Robotics`
-<sub>🔵 Completed</sub>
+<br/><br/>
+
+<code>Robotics</code>
+<code>IoT</code>
+<code>Embedded Systems</code>
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 
-**💬 Sentiment Analysis**
-`NLP`
-<sub>🔵 Completed</sub>
+<td width="50%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+<h3>💬 Sentiment Analysis</h3>
 
-**📦 Inventory Management**
-`Web Development`
-<sub>🔵 Completed</sub>
+<b>✨ Built</b>
 
-</td>
-<td width="33%" valign="top">
+<br/><br/>
 
-**📅 Event Management**
-`Web Development`
-<sub>🔵 Completed</sub>
+An NLP-focused project exploring sentiment analysis
+and text classification.
+
+<br/><br/>
+
+<code>NLP</code>
+<code>Machine Learning</code>
 
 </td>
 </tr>
 </table>
 
-<sub>Links (Code / Demo / Paper) will be added per project as repositories are finalized — only real links get shown.</sub>
-
 <br/>
 
-## 🧪 Research Notebook
-
-A running record of experiments — not every finished idea deserves its own polished repo, but every experiment teaches something.
-
-```
-01 · NLP Experiments
-02 · Deep Learning
-03 · Explainable AI
-04 · Computer Vision
-05 · Deepfake Detection
-06 · Multi-Hazard Forecasting
-```
-
-Each entry will eventually link to a repository, a markdown note, or a notebook — this is meant to grow into a public record of the research process, not just the results.
-
-<br/>
-
-## 🛠️ Toolkit
+<!-- ===================== OTHER ============================= -->
 
 <table>
-<tr><td><b>Languages</b></td><td>Python · C · Java · JavaScript · SQL</td></tr>
-<tr><td><b>AI / ML</b></td><td>PyTorch · TensorFlow / Keras · Scikit-learn · Hugging Face</td></tr>
-<tr><td><b>Computer Vision</b></td><td>OpenCV · YOLO · Tracking tools</td></tr>
-<tr><td><b>Development</b></td><td>Django · HTML · CSS</td></tr>
-<tr><td><b>Research</b></td><td>Jupyter · Google Colab · Overleaf</td></tr>
-<tr><td><b>Tools</b></td><td>Git · GitHub · VS Code · Linux</td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📦 Inventory Management</h3>
+
+<b>✨ Built</b>
+
+<br/><br/>
+
+A software project focused on managing inventory-related
+operations and information.
+
+<br/><br/>
+
+<code>Software Development</code>
+<code>Database</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📅 Event Management</h3>
+
+<b>✨ Built</b>
+
+<br/><br/>
+
+A software project designed around event management
+and related workflows.
+
+<br/><br/>
+
+<code>Web Development</code>
+<code>Database</code>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 🌙 Beyond the Code
-
 <p align="center">
-🎨 Drawing &nbsp;·&nbsp; 📖 Anime / Manga / Manhwa &nbsp;·&nbsp; 🎧 BTS / Taylor Swift / The Weeknd / Chase Atlantic &nbsp;·&nbsp; 🍳 Cooking &nbsp;·&nbsp; 🌙 Introvert life
+  <i>
+    More projects and repositories will appear here as they grow.
+  </i>
 </p>
-
-<p align="center"><sub>Researcher → Engineer → Human</sub></p>
 
 <br/>
 
-## 🏆 Recognition
 
-- 🏅 Vice Chancellor's Honor Award — Spring 2024
-- 🏅 Vice Chancellor's Honor Award — Spring 2025
-- 🏅 Vice Chancellor's Honor Award — Fall 2025
-- 🤖 Inter University Robo Expo 3.0
+<!-- ========================================================= -->
+<!--                  🔬 WHAT I'M EXPLORING                    -->
+<!-- ========================================================= -->
+
+# 🔬 What I'm Exploring
+
+I'm interested in understanding how intelligent systems
+can move beyond simply producing predictions.
+
+Currently exploring:
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-7E22CE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trustworthy%20AI-9333EA?style=flat-square"/>
+
+</p>
 
 <br/>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishataranoon&show_icons=true&theme=midnight_purple&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishataranoon&layout=compact&theme=midnight_purple&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishataranoon&theme=midnight-purple&hide_border=true" width="60%"/>
-</p>
-
-<sub>Replace <code>tanishataranoon</code> above with your actual GitHub username if different.</sub>
+> I'm still learning, experimenting, and finding the questions
+> that interest me the most.
 
 <br/>
+
+
+<!-- ========================================================= -->
+<!--                    🧪 RESEARCH CORNER                     -->
+<!-- ========================================================= -->
+
+# 🧪 Research Corner
+
+A small space for the things I'm currently trying to understand.
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  🤖 Artificial Intelligence                        │
+│       └── Learning how intelligent systems work   │
+│                                                    │
+│  🧠 Machine Learning                               │
+│       └── Building and experimenting with models  │
+│                                                    │
+│  👁️ Computer Vision                                │
+│       └── Understanding images and videos         │
+│                                                    │
+│  💬 Natural Language Processing                    │
+│       └── Working with language and text          │
+│                                                    │
+│  🔍 Explainable AI                                 │
+│       └── Asking "why did the model decide this?" │
+│                                                    │
+│  🛡️ Trustworthy AI                                 │
+│       └── Thinking beyond accuracy                │
+│                                                    │
+└────────────────────────────────────────────────────┘
 
 ## 📫 Let's Connect
 
