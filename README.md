@@ -80,3 +80,46 @@ I'm particularly interested in developing intelligent systems that are
                           │
                           ▼
                   Trustworthy AI
+  🚀 Things I've Built
+
+┌─────────────────────────────────────────────────────┐
+│  🌾 Multi-Hazard Forecasting                        │
+│                                                     │
+│  Undergraduate Thesis                               │
+│  AI/ML • Forecasting • Hybrid Fusion • XAI         │
+│                                                     │
+│  [ View Project ]                                   │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  🎭 Multi-Face Deepfake Detection                   │
+│                                                     │
+│  AI/ML Research Project                             │
+│  Computer Vision • Face Tracking • Deepfake        │
+│                                                     │
+│  [ View Project ]                                   │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  🧪 Toxic Comment Classification                    │
+│                                                     │
+│  NLP • ML • Deep Learning • Transformers            │
+│                                                     │
+│  [ View Project ]                                   │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  🌳 Rare Tree Locator                               │
+│                                                     │
+│  Django • Python • JavaScript • Biodiversity        │
+│                                                     │
+│  [ View Project ]                                   │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  🤖 Gesture-Controlled Robotic Vehicle              │
+│                                                     │
+│  Robotics • IoT • Embedded Systems • CV             │
+│                                                     │
+│  [ View Project ]                                   │
+└─────────────────────────────────────────────────────┘
