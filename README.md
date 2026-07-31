@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Tanisha_GitHub_Animated_Banner.gif" width="100%" alt="Tanisha Taranoon Hridy banner"/>
+  <img src="./Tanisha_GitHub_Animated_Banner.gif" width="100%" alt="Tanisha Taranoon Hridy banner"/>
 </p>
 
 <p align="center">
