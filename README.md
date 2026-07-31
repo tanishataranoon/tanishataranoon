@@ -11,9 +11,9 @@
   <a href="YOUR_GITHUB">
     <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github">
   </a>
-  <a href="YOUR_GOOGLE_SCHOLAR">
+  <!-- <a href="YOUR_GOOGLE_SCHOLAR">
     <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar">
-  </a>
+  </a> -->
 </p>
 
 ---
