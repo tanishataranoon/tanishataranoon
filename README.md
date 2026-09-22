@@ -80,11 +80,24 @@ quiet time.
 
 <td width="50%" valign="top">
 
-### 🌾 Multi-Hazard Forecasting
+### 🌳 [Rare Tree Locator](https://github.com/tanishataranoon/Rare-tree-Locator)
+
+**✨ Built**
+
+A web application for discovering and tracking rare trees.
+
+`Django` `Python` `JavaScript`
+
+</td>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌾 [Joint_Forecasting](https://github.com/tanishataranoon/Joint_Forecasting)
 
 **Undergraduate Thesis · 🌱 Ongoing**
 
-AI-based multi-hazard forecasting and early warning using hybrid
+AI-based Joint_Forecasting using hybrid
 approaches and Explainable AI.
 
 `AI` `Deep Learning` `Forecasting` `XAI`
@@ -93,7 +106,7 @@ approaches and Explainable AI.
 
 <td width="50%" valign="top">
 
-### 🎭 Multi-Face Deepfake Detection
+### 🎭 [Multi-Face Deepfake Detection](https://github.com/tanishataranoon/DEEPFAKE-Detection)
 
 **Research Project · 🧪 Ongoing**
 
@@ -106,23 +119,11 @@ analysis, tracking, and reliable prediction.
 
 </tr>
 
-<tr>
+
 
 <td width="50%" valign="top">
 
-### 🌳 Rare Tree Locator
-
-**✨ Built**
-
-A web application for discovering and tracking rare trees.
-
-`Django` `Python` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 Toxic Comment Detection
+### 🧪 [Evalution_Toxic Comment Detection](https://github.com/tanishataranoon/Evalution_toxic_Text)
 
 **✨ Built**
 
@@ -139,7 +140,7 @@ toxic comment classification.
 
 <td width="50%" valign="top">
 
-### 🤖 Gesture-Controlled Robot
+### 🤖 [Gesture-Controlled Robot](https://github.com/naziaomee/vision-guided-gesture-control-robot)
 
 **✨ Built**
 
@@ -151,13 +152,12 @@ A robotics project combining gesture control and embedded systems.
 
 <td width="50%" valign="top">
 
-### 💬 Sentiment Analysis
+### 💬 [Inventory_management_system](https://github.com/tanishataranoon/Inventory_management_system)
 
 **✨ Built**
 
-An NLP project focused on sentiment classification.
-
-`NLP` `Machine Learning`
+A database-driven Inventory Management System developed as an academic project to demonstrate the practical application of relational database concepts, SQL, data organization, and database management
+`SQL` `MySQL`
 
 </td>
 
