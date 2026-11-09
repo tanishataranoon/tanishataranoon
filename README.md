@@ -31,7 +31,11 @@
       src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <!-- Add LinkedIn later -->
+    <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/tanisha-taranoon-hridy-290118311/)">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
   <!-- Add Portfolio later -->
 </p>
 
