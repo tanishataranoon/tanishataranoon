@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-tanisha_taranoon_hridy%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tanishataranoonhridy.vercel.app/">
-    <img src="https://shields.io" />
+    <<img src="https://shields.io+" />
   </a>
 </p>
 <br/>
