@@ -24,22 +24,19 @@
     alt="Typing animation"
   />
 </p>
-
 <p align="center">
   <a href="https://github.com/tanishataranoon">
-    <img
-      src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/GitHub-tanishataranoon-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <a href="https://www.linkedin.com/in/tanisha-taranoon-hridy-290118311/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-tanisha_taranoon_hridy%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+  <a href="https://www.linkedin.com/in/tanisha-taranoon-hridy-290118311/">
+    <img src="https://img.shields.io/badge/LinkedIn-tanisha_taranoon_hridy%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Add Portfolio later -->
+  <a href="https://tanishataranoonhridy.vercel.app/">
+    <img src="https://shields.io" />
+  </a>
 </p>
-
 <br/>
+
 
 
 <!-- ========================================================= -->
